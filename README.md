@@ -4,6 +4,8 @@ Bu proje, gerçekte olan bir hamburger mağazasının eski bir klonunu içerir. 
 
 #### Not: Proje React ve React-router(v6) ile oluşturulmuştur.
 
+## Kurulum
+
 Projeyi kurmak için projeyi klonlayıp. `cd burgerSite` yazdıktan sonra
 ```
 npm install
